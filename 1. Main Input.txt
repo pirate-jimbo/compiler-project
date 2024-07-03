@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include <string.h>
+#include<ctype.h>
+/*Program Starts*/
+float func(int x))
+{
+int y;;
+for(y; x, ){} //for loop
+return 1.5;
+}
+int main()
+{
+int a=1;
+if(c   <2)
+a=2;
+else
+a=0;
+a=a+a+a   +        a;
+return 0;
+}
